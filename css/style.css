@@ -2,6 +2,8 @@ body{
     background-color: yellow;
     color: blue;
     font-size: large;
+    margin: 50px;
+    text-align: center;
 }
 
 #nav{
