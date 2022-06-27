@@ -1,7 +1,10 @@
 body{
     background-color: yellow;
+    color: blue;
+    font-size: large;
 }
 
 #nav{
     background-color: red;
+    color: white;
 }
